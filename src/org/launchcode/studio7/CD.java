@@ -1,6 +1,6 @@
 package org.launchcode.studio7;
 
-public class CD extends BaseDisc implements OpticalDisc {
+public class CD extends ComputerDisc implements OpticalDisc {
     // TODO: Implement your custom interface.
 
     // TODO: Determine which fields, methods, and constructors can be extended from the base class and which ones
